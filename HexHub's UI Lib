@@ -1450,8 +1450,8 @@ end
 
 library.settings = {
 	guiname = "hexhubgui",
-	title = "Hex Hub v2.4",
-	footer = "...",-- "UId: 1770943654 | 18:48:21 | FPS: 60 | https://hexhub.xyz",
+	title = "Zen-Ware Premium",
+	footer = "...",-- "UId: 1770943654 | 18:48:21 | FPS: 60 | https://discord.gg/qeYCtPAvD5",
 	modal = true,
 	font = Enum.Font.Code,
 	textsize = 14,
